@@ -11,5 +11,5 @@ Currentyl we can covert number into word but it do'nt look fine.
 Aim of this package is provide tool for converting number into words conviniently. 
 
 # Expectation
--Introduce better and stable form to convert number into word
--Currently this we can't convert number into internaltional based number system. We need to introduce this concerpt too.
+- Introduce better and stable form to convert number into word
+- Currently this we can't convert number into internaltional based number system. We need to introduce this concerpt too.
