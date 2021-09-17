@@ -49,7 +49,9 @@ public class NumberSystem{
             THOUSAND = "thousand",
             LAKH = "lakh",
             CRORE = "crore",
-            ARAB = "arab";
+            ARAB = "arab",
+            MILLION = "million",
+            BILLION = "billion";
 
     public String convert(Integer number) throws Exception {
         String var0 = Integer.toString(number);
