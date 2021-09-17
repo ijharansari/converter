@@ -1,4 +1,10 @@
 public class NumberSystem{
+
+    //Types supported for Number system
+    enum Type {
+        INTERNATIONAL,
+        INDIAN
+    }
     final String ZERO = "zero";
     final String ONE = "one";
     final String PLULAR_SUFFIX = "s";
